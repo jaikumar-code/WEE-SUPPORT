@@ -35,3 +35,6 @@ The Pricing Plans page is intentionally excluded from this release and is not li
 - Responsive layouts
 - Reduced-motion support
 - No framework/build dependency
+
+## Brand assets
+The WEE-SUPPORT logo and favicon are bundled locally under `assets/brand/`. The project no longer depends on the previous Wix-hosted logo asset.
